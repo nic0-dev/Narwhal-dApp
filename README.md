@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # narwhal-dapp
 
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
@@ -94,3 +95,6 @@ Build the web app
 ```shell
 npm run build
 ```
+=======
+# Narwhal-dApp
+>>>>>>> 50d71af60c05e02a4a4fcd44689bbae9ab1f5b84
